@@ -1,0 +1,1 @@
+This repository showcases a common Python error, ZeroDivisionError, hidden within an if/else statement.  The error occurs when the function attempts to divide by zero. The solution demonstrates how to handle this error using exception handling. This example highlights the importance of input validation and error handling in robust code.
